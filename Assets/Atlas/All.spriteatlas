@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: All
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 881c415ad524eb64f98a801e2afa21a3, type: 3}
+    totalSpriteSurfaceArea: 4803001
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c6e45b10065e8a740ae6913d3bb50491, type: 3}
+  - {fileID: 21300000, guid: 4a78db5126ef5ea48ace8ff00ca5983f, type: 3}
+  - {fileID: 21300000, guid: bfa7a092719d5ed449ec25b2eb0f01a6, type: 3}
+  - {fileID: 21300000, guid: 890d9d230204b4c4d9ff96727643da6b, type: 3}
+  - {fileID: 21300000, guid: 3df52f335ed3dda4482efdfa133272d9, type: 3}
+  - {fileID: 21300000, guid: 1c9856b356510a146b5154b3d99b5505, type: 3}
+  - {fileID: 21300000, guid: debf9144f25e74d4394f6fa884ddc822, type: 3}
+  - {fileID: 21300000, guid: 7d48fcb4f89aee44aaf4fa7a8d72bd8e, type: 3}
+  - {fileID: 21300000, guid: a0a545f44483cfb429dab3ea90379ce4, type: 3}
+  - {fileID: 21300000, guid: b25fabf4ba36a7940b5d5a91c4a9e0d0, type: 3}
+  - {fileID: 21300000, guid: a4b884553066513479ee32f745b2ff94, type: 3}
+  - {fileID: 21300000, guid: 5a6e4675640504c4295c3ab61e9a61c6, type: 3}
+  - {fileID: 21300000, guid: 57a32995ada2d474cb7413e85e26d1c7, type: 3}
+  - {fileID: 21300000, guid: 204718b7de1e8e0418a5256b86152ec5, type: 3}
+  - {fileID: 21300000, guid: 6dcd00e7d803c0246aae96f94ea86bbd, type: 3}
+  - {fileID: 21300000, guid: ee562c386a9132c4ca6b1c94e86d9464, type: 3}
+  - {fileID: 21300000, guid: 6b5faca8de7e54b4cb6351538425b9e9, type: 3}
+  - {fileID: 21300000, guid: f5d5a7f8c644d4e41908528f395faa5c, type: 3}
+  - {fileID: 21300000, guid: 5c6728f8de93f9843874f0b18cbdab93, type: 3}
+  - {fileID: 21300000, guid: f9947129e81f09c40ab79020b95f1fe2, type: 3}
+  - {fileID: 21300000, guid: 754b4a5906b2c084aa9531e5539f03ce, type: 3}
+  - {fileID: 21300000, guid: 5cd68f99dfc53354c93bd3f130a8fefb, type: 3}
+  - {fileID: 21300000, guid: 7aeac5e9c60b64c4ebd52a37ee075044, type: 3}
+  - {fileID: 21300000, guid: c398922a20f2f984db55718ac2c394f5, type: 3}
+  - {fileID: 21300000, guid: 8381faca14b3c2f48bcb706dc4baa1ec, type: 3}
+  - {fileID: 21300000, guid: 1f58359b2eb03a742854d8c166e6b1c4, type: 3}
+  - {fileID: 21300000, guid: c04c5fab7c0abb34bb83519d5cd1b13c, type: 3}
+  - {fileID: 21300000, guid: 3ed2ab1c0d47670418c4e9c2ae1f0821, type: 3}
+  - {fileID: 21300000, guid: c252c73c3600aa944a093dd4d6b7045d, type: 3}
+  - {fileID: 21300000, guid: 70db485c36ba4a146a277e0266dcb187, type: 3}
+  - {fileID: 21300000, guid: 6c87fd6cdb6ddd24999ad0b1cf87f2bf, type: 3}
+  - {fileID: 21300000, guid: b72740cc046f17249b465d07518db14e, type: 3}
+  - {fileID: 21300000, guid: de16903df17990f4fac0cc9eb7af7918, type: 3}
+  - {fileID: 21300000, guid: c351e18de63af5c4ca2aee7b092e6ce2, type: 3}
+  - {fileID: 21300000, guid: 178b95fda4a3dad49a133ade21a8c6b8, type: 3}
+  - {fileID: 21300000, guid: f3ec1e0e10786634582bae64b9cb8b63, type: 3}
+  - {fileID: 21300000, guid: 50dbab8e01741f1438b0cde09c02ef01, type: 3}
+  - {fileID: 21300000, guid: 7e2b23af0b5ba4c44814bdc93e5e9047, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - New icon
+  - Home new
+  - Play
+  - Ball
+  - White Button click
+  - icon4
+  - Boarder 2
+  - icon40
+  - SoundOn
+  - Holder
+  - Chat icon white
+  - Exit button 1
+  - Launcher
+  - Circle button white
+  - Tutorial ball white
+  - Launcher white
+  - Avatar default
+  - Share
+  - Button click
+  - icon3
+  - icon26
+  - Sun 1
+  - Boader
+  - play
+  - SoundOff
+  - icon6
+  - icon20
+  - New launcher
+  - icon31
+  - 4696674-64
+  - Black chat icon
+  - icon12
+  - icon54
+  - Moon
+  - Setting
+  - icon33
+  - Finger white
+  - Arrow white
+  m_RenderDataMap: {}
+  m_Tag: All
+  m_IsVariant: 0
